@@ -1,8 +1,12 @@
 .item{
-  width: 350px;
+  width: 310px;
+  align-items: center;
 }
 .item p{
   margin: 6px 0px;
+  text-align: justify;
+  font-family: 'Times New Roman', Times, serif
+
 }
 .item-prices{
 display: flex;

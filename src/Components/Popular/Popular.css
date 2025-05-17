@@ -24,7 +24,10 @@
   margin-top: 50px;
   display: grid;
   grid-template-columns: repeat(4, 10fr);
-  gap: px;
+  gap: 20px;
+  justify-content: center;
+  
+  
 }
 .item {
   width: 100%;
